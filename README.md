@@ -10,8 +10,7 @@ This repository contains code and data for developing and using Physics-Augmente
 
 Code and data used in:
 
-M. Bourdyot, M. Compans, R. Langlois, B. Smaniotto, E. Baranger, C. Jailin, **Learning a hyperelastic constitutive model from 3D experimental data**, submitted to publication. 
-
+Bourdyot, M., Compans, M., Langlois, R., Smaniotto, B., Baranger, E., & Jailin, C. (2026). Learning a hyperelastic constitutive model from 3D experimental data. Computer Methods in Applied Mechanics and Engineering, 450, 118592.
 
 [(NH residuals forces)](https://cjailin.github.io/html_outputs/3D_PANN_learning/NH_residual_forces.html)
 
